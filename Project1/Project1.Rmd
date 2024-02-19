@@ -1,0 +1,42 @@
+---
+title: "TITLE HERE"
+author: "TYPE YOUR NAME HERE"
+date: ""
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    code_download: true
+---
+
+```{r, warning = FALSE, message = FALSE}
+# Load any R Packages you may need
+library(tidyverse)
+
+```
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+# Load any datasets you may need
+
+```
+
+
+# HEADING 1
+
+- BULLET POINT 1
+- BULLET POINT 1
+
+*italics*
+
+**bold face**
+
+## SUBHEADING 1
+
+### SUBSUBHEADING 1
+
+
+
+
+
+
